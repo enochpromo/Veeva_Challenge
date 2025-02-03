@@ -29,6 +29,6 @@ def get_weather_forecast(zip_code, api_key):
 
 # Example usage:
 api_key = "ecda433bc5c5315f9ed5e95e3a83c64e"  # Replace with your OpenWeatherMap API key
-zip_code = "10001"  # Replace with the desired ZIP code
+zip_code = "20769"  # Replace with the desired ZIP code
 get_weather_forecast(zip_code, api_key)
 
